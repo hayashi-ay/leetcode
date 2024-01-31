@@ -1,0 +1,29 @@
+## 概要
+> Given an array `nums` of distinct integers, return _all the possible permutations_. You can return the answer in **any order**.
+
+## 方針
+### Intuition
+取りうる全ての順列を返す必要があるので、バックトラッキングが向いていそう。
+
+### backtracking
+Time Complexity: $O(n!)$
+Space Complexity: $O(n!)$
+Where: `n = len(nums)`
+
+```python
+def permute(self, nums: List[int]) -> List[List[int]]:
+
+	def backtrack(permutation):
+		if len(permutation) == len(nums):
+			permutations.append(permutation[:])
+			return
+		for num in nums:
+			if num not in permutation:
+				permutation.append(num)
+				backtrack(permutation)
+				permutation.pop()
+
+	permutations = []
+	backtrack([])
+	return permutations
+```
