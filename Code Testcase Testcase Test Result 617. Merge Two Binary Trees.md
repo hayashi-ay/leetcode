@@ -23,6 +23,8 @@ class Solution:
         return new_node
 ```
 
+> 1st は、私は return new_node 3回書いちゃいます。
+
 2nd
 ```python
 class Solution:
@@ -56,6 +58,8 @@ class Solution:
 ```
 
 4th
+
+破壊的
 ```python
 class Solution:
     def mergeTrees(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> Optional[TreeNode]:
@@ -69,3 +73,22 @@ class Solution:
         return root1
 ```
 
+非破壊的
+
+https://docs.python.org/3/library/copy.html#copy.deepcopy
+> A deep copy constructs a new compound object and then, recursively, inserts copies into it of the objects found in the original.
+
+`copy.deepcopy`だとノードを再帰的にたどって複製してくれる。
+
+```python
+class Solution:
+    def mergeTrees(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> Optional[TreeNode]:
+        if root1 is None:
+            return copy.deepcopy(root2)
+        if root2 is None:
+            return copy.deepcopy(root1)
+        node = TreeNode(root1.val + root2.val)
+        node.left = self.mergeTrees(root1.left, root2.left)
+        node.right = self.mergeTrees(root1.right, root2.right)
+        return node
+```
