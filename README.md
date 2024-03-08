@@ -24,6 +24,7 @@
 - [200. Number of Islands](https://github.com/hayashi-ay/leetcode/pull/33)
 - [695. Max Area of Island](https://github.com/hayashi-ay/leetcode/pull/34)
 - [323. Number of Connected Components in an Undirected Graph](https://github.com/hayashi-ay/leetcode/pull/37)
+- [127. Word Ladder](https://github.com/hayashi-ay/leetcode/pull/42)
 
 ## Tree, BT, BST
 - [104. Maximum Depth of Binary Tree](https://github.com/hayashi-ay/leetcode/pull/22)
@@ -34,12 +35,18 @@
 - [102. Binary Tree Level Order Traversal](https://github.com/hayashi-ay/leetcode/pull/32)
 - [103. Binary Tree Zigzag Level Order Traversal](https://github.com/hayashi-ay/leetcode/pull/35)
 - [98. Validate Binary Search Tree](https://github.com/hayashi-ay/leetcode/pull/38)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/hayashi-ay/leetcode/pull/43)
 
 ## Dynamic Programming
 - [276. Paint Fence](https://github.com/hayashi-ay/leetcode/pull/17)
 - [300. Longest Increasing Subsequence](https://github.com/hayashi-ay/leetcode/pull/27)
 - [53. Maximum Subarray](https://github.com/hayashi-ay/leetcode/pull/36)
-- [62. Unique Paths](https://github.com/hayashi-ay/leetcode/pull/)
+- [62. Unique Paths](https://github.com/hayashi-ay/leetcode/pull/39)
+- [63. Unique Paths II](https://github.com/hayashi-ay/leetcode/pull/44)
 
 ## Binary Search
-- [35. Search Insert Position](https://github.com/hayashi-ay/leetcode/pull/)
+- [35. Search Insert Position](https://github.com/hayashi-ay/leetcode/pull/40)
+- [153. Find Minimum in Rotated Sorted Array](https://github.com/hayashi-ay/leetcode/pull/45)
+
+## Recursion
+- [50. Pow(x, n)](https://github.com/hayashi-ay/leetcode/pull/41)
