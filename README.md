@@ -50,3 +50,7 @@
 
 ## Recursion
 - [50. Pow(x, n)](https://github.com/hayashi-ay/leetcode/pull/41)
+- [779. K-th Symbol in Grammar](https://github.com/hayashi-ay/leetcode/pull/46)
+
+## Sliding Window
+- [3. Longest Substring Without Repeating Characters](https://github.com/hayashi-ay/leetcode/pull/47)
