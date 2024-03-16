@@ -43,10 +43,12 @@
 - [53. Maximum Subarray](https://github.com/hayashi-ay/leetcode/pull/36)
 - [62. Unique Paths](https://github.com/hayashi-ay/leetcode/pull/39)
 - [63. Unique Paths II](https://github.com/hayashi-ay/leetcode/pull/44)
+- [198. House Robber](https://github.com/hayashi-ay/leetcode/pull/48)
 
 ## Binary Search
 - [35. Search Insert Position](https://github.com/hayashi-ay/leetcode/pull/40)
 - [153. Find Minimum in Rotated Sorted Array](https://github.com/hayashi-ay/leetcode/pull/45)
+- [33. Search in Rotated Sorted Array](https://github.com/hayashi-ay/leetcode/pull/49)
 
 ## Recursion
 - [50. Pow(x, n)](https://github.com/hayashi-ay/leetcode/pull/41)
