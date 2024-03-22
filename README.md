@@ -11,6 +11,7 @@
 - [206. Reverse Linked List](https://github.com/hayashi-ay/leetcode/pull/13)
 
 ## Heap, PriorityQueue
+- [703. Kth Largest Element in a Stream](https://github.com/hayashi-ay/leetcode/pull/54)
 
 ## HashMap
 - [1. Two Sum](https://github.com/hayashi-ay/leetcode/pull/14)
@@ -46,11 +47,13 @@
 - [198. House Robber](https://github.com/hayashi-ay/leetcode/pull/48)
 - [213. House Robber II](https://github.com/hayashi-ay/leetcode/pull/50)
 - [121. Best Time to Buy and Sell Stock](https://github.com/hayashi-ay/leetcode/pull/52)
+- [122. Best Time to Buy and Sell Stock II](https://github.com/hayashi-ay/leetcode/pull/56)
 
 ## Binary Search
 - [35. Search Insert Position](https://github.com/hayashi-ay/leetcode/pull/40)
 - [153. Find Minimum in Rotated Sorted Array](https://github.com/hayashi-ay/leetcode/pull/45)
 - [33. Search in Rotated Sorted Array](https://github.com/hayashi-ay/leetcode/pull/49)
+- [1011. Capacity To Ship Packages Within D Days](https://github.com/hayashi-ay/leetcode/pull/55)
 
 ## Recursion
 - [50. Pow(x, n)](https://github.com/hayashi-ay/leetcode/pull/41)
