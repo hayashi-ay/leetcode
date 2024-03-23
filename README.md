@@ -63,3 +63,9 @@
 ## Sliding Window
 - [3. Longest Substring Without Repeating Characters](https://github.com/hayashi-ay/leetcode/pull/47)
 - [209. Minimum Size Subarray Sum](https://github.com/hayashi-ay/leetcode/pull/51)
+
+## Greedy + Backtracking
+- [46. Permutations](https://github.com/hayashi-ay/leetcode/pull/57)
+
+## その他
+- [283. Move Zeroes](https://github.com/hayashi-ay/leetcode/pull/58)
