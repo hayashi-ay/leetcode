@@ -13,6 +13,7 @@
 ## Heap, PriorityQueue
 - [703. Kth Largest Element in a Stream](https://github.com/hayashi-ay/leetcode/pull/54)
 - [347. Top K Frequent Elements](https://github.com/hayashi-ay/leetcode/pull/60)
+- [373. Find K Pairs with Smallest Sums](https://github.com/hayashi-ay/leetcode/pull/66)
 
 ## HashMap
 - [1. Two Sum](https://github.com/hayashi-ay/leetcode/pull/14)
@@ -49,6 +50,7 @@
 - [213. House Robber II](https://github.com/hayashi-ay/leetcode/pull/50)
 - [121. Best Time to Buy and Sell Stock](https://github.com/hayashi-ay/leetcode/pull/52)
 - [122. Best Time to Buy and Sell Stock II](https://github.com/hayashi-ay/leetcode/pull/56)
+- [139. Word Break](https://github.com/hayashi-ay/leetcode/pull/61)
 
 ## Binary Search
 - [35. Search Insert Position](https://github.com/hayashi-ay/leetcode/pull/40)
@@ -75,3 +77,4 @@
 - [252. Meeting Rooms](https://github.com/hayashi-ay/leetcode/pull/59)
 - [253. Meeting Rooms II](https://github.com/hayashi-ay/leetcode/pull/62)
 - [392. Is Subsequence](https://github.com/hayashi-ay/leetcode/pull/64)
+- [31. Next Permutation](https://github.com/hayashi-ay/leetcode/pull/67)
