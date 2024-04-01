@@ -51,6 +51,7 @@
 - [121. Best Time to Buy and Sell Stock](https://github.com/hayashi-ay/leetcode/pull/52)
 - [122. Best Time to Buy and Sell Stock II](https://github.com/hayashi-ay/leetcode/pull/56)
 - [139. Word Break](https://github.com/hayashi-ay/leetcode/pull/61)
+- [322. Coin Change](https://github.com/hayashi-ay/leetcode/pull/68)
 
 ## Binary Search
 - [35. Search Insert Position](https://github.com/hayashi-ay/leetcode/pull/40)
@@ -78,3 +79,4 @@
 - [253. Meeting Rooms II](https://github.com/hayashi-ay/leetcode/pull/62)
 - [392. Is Subsequence](https://github.com/hayashi-ay/leetcode/pull/64)
 - [31. Next Permutation](https://github.com/hayashi-ay/leetcode/pull/67)
+- [8. String to Integer (atoi)](https://github.com/hayashi-ay/leetcode/pull/69)
