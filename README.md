@@ -72,6 +72,7 @@
 - [46. Permutations](https://github.com/hayashi-ay/leetcode/pull/57)
 - [78. Subsets](https://github.com/hayashi-ay/leetcode/pull/63)
 - [39. Combination Sum](https://github.com/hayashi-ay/leetcode/pull/65)
+- [22. Generate Parentheses](https://github.com/hayashi-ay/leetcode/pull/70)
 
 ## その他
 - [283. Move Zeroes](https://github.com/hayashi-ay/leetcode/pull/58)
