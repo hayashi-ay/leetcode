@@ -81,3 +81,4 @@
 - [392. Is Subsequence](https://github.com/hayashi-ay/leetcode/pull/64)
 - [31. Next Permutation](https://github.com/hayashi-ay/leetcode/pull/67)
 - [8. String to Integer (atoi)](https://github.com/hayashi-ay/leetcode/pull/69)
+- [6. Zigzag Conversion](https://github.com/hayashi-ay/leetcode/pull/71)
