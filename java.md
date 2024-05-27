@@ -1,6 +1,7 @@
 1st
 
 HashMapのドキュメント。https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/HashMap.html
+Integerはintをラップしたクラス。
 
 ```java
 class Solution {
