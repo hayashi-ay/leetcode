@@ -25,3 +25,5 @@ class Solution {
     }
 }
 ```
+
+> Stackなのでaddよりはpushが良さそう
