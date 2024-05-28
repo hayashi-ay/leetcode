@@ -25,3 +25,30 @@ class Solution {
     }
 }
 ```
+
+2nd
+
+若干書き直し
+```java
+class Solution {
+    public int minMeetingRooms(int[][] intervals) {
+        int maxOngoingMeetings = 0;
+        int numOngoingMeetings = 0;
+        PriorityQueue<Integer> meetingEndTimes = new PriorityQueue<>();
+
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+        for (int[] interval : intervals) {
+            int startTime = interval[0];
+            int endTime = interval[1];
+            while (!meetingEndTimes.isEmpty() && meetingEndTimes.peek() <= startTime) {
+                meetingEndTimes.poll();
+                numOngoingMeetings--;
+            }
+            numOngoingMeetings++;
+            maxOngoingMeetings = Math.max(maxOngoingMeetings, numOngoingMeetings);
+            meetingEndTimes.add(endTime);
+        }
+        return maxOngoingMeetings;
+    }
+}
+```
