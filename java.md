@@ -2,7 +2,7 @@
 
 PriorityQueueのドキュメント：https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/PriorityQueue.html#add(E)
 
-```python
+```java
 class Solution {
     public int minMeetingRooms(int[][] intervals) {
         int maxOngoingMeetings = 0;
