@@ -1,4 +1,9 @@
 # Arai60
+
+このリポジトリは、Arai60を題材にしたコーディング練習の記録です。基本的にPythonで書いていますが、問題によってはJavaでの解法も含まれています。練習のルールや進め方、実際に取り組んでみての感想は、次のブログ記事にまとめています。
+
+- [Arai 60で取り組んだコーディングの練習方法](https://hayapenguin.com/articles/how-to-practice-coding-effectively)
+
 ## LinkedList
 - [141. Linked List Cycle](https://github.com/hayashi-ay/leetcode/pull/15)
 - [142. Linked List Cycle II](https://github.com/hayashi-ay/leetcode/pull/18)
